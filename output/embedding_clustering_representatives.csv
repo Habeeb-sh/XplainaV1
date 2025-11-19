@@ -1,0 +1,26 @@
+cluster,representative,rep_freq,closest_skill,cluster_size
+0,Transform,43,Salesforce,16
+1,Big Data,55,Big Data,4
+2,Strategy,191,Decision Making,14
+3,Customer Analysis,42,Customer Support,5
+4,Business Analysis,133,Business Analysis,19
+5,Finance,108,Accounting,18
+6,User Experience,55,Visual Design,18
+7,Network Architecture,34,Network Architecture,10
+8,Reinforcement Learning,12,Reinforcement Learning,1
+9,DevOps,36,Web Development Tools,12
+10,Network Security,47,Security Software,9
+11,Cloud Computing,106,Cloud Applications,18
+12,Computer Programming,189,System Programming,14
+13,Leadership and Management,329,Operations Management,21
+14,Computer Programming Tools,59,Computer Programming Tools,18
+15,Sales,45,Sales,10
+16,Communication,191,Media Production,13
+17,Marketing,109,Marketing,9
+18,Critical Thinking,176,Computer Science,11
+19,Human Resources,41,Human Resources,14
+20,Data Management,115,Databases,16
+21,Organizational Development,76,Business Development,13
+22,Data Visualization,79,Data Visualization,10
+23,Human Learning,96,Human Computer Interaction,4
+24,Data Analysis,242,Machine Learning,38
