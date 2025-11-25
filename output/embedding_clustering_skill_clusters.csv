@@ -1,336 +1,1088 @@
 skill,cluster,freq
-Leadership and Management,13,329
-Data Analysis,24,242
-Communication,16,191
-Strategy,2,191
-Computer Programming,12,189
-Critical Thinking,18,176
-Strategy and Operations,13,165
-Problem Solving,13,165
-Python Programming,12,145
-Business Analysis,4,133
-Machine Learning,24,129
-Planning,2,120
-Decision Making,2,116
-Algorithms,24,116
-Data Management,20,115
-Marketing,17,109
-Finance,5,108
-Cloud Computing,11,106
-Probability & Statistics,24,97
-Human Learning,23,96
-Machine Learning Algorithms,24,85
-Databases,20,81
-General Statistics,24,81
-Entrepreneurship,4,81
-Data Visualization,22,79
-SQL,20,77
-Collaboration,16,76
-Organizational Development,21,76
-Risk Management,2,72
-Exploratory Data Analysis,22,70
-Financial Analysis,5,70
-Statistical Analysis,24,69
-Project Management,13,68
-Applied Machine Learning,24,68
-Mathematics,18,66
-Data Structures,20,64
-Regression,24,64
-Software Engineering,18,62
-Programming Principles,12,61
-Deep Learning,24,61
-Market Analysis,4,60
-Accounting,5,60
-Statistical Programming,24,60
-Computer Programming Tools,14,59
-Writing,16,57
-Big Data,1,55
-Data Model,20,55
-User Experience,6,55
-Design and Product,6,54
-Artificial Neural Networks,24,54
-Financial Accounting,5,53
-Research and Design,6,53
-Cloud Applications,11,53
-Computational Thinking,18,51
-Innovation,21,49
-Cloud Platforms,11,49
-Mathematical Theory & Analysis,18,49
-Microsoft Excel,14,49
-Network Security,10,47
-Financial Management,5,47
-Operations Management,13,47
-Business Communication,16,46
-Machine Learning Software,14,46
-Sales,15,45
-Data Analysis Software,14,45
-Business Psychology,4,44
-Extract,24,43
-Transform,0,43
-Load,0,43
-Process Analysis,4,42
-Customer Analysis,3,42
-Cloud Storage,11,41
-Human Resources,19,41
-Cloud Infrastructure,11,41
-Computational Logic,18,41
-Spreadsheet Software,14,40
-People Analysis,24,40
-Product Management,13,40
-People Management,19,40
-Creativity,16,39
-Data Science,20,39
-Investment Management,4,38
-Application Development,21,38
-Business Process Management,13,38
-Performance Management,13,38
-Statistical Tests,24,38
-Google Cloud Platform,11,37
-Linux,0,37
-Change Management,13,36
-Probability Distribution,2,36
-Visualization (Computer Graphics),22,36
-Plot (Graphics),22,36
-DevOps,9,36
-User Experience Design,6,36
-Business Transformation,4,35
-Digital Marketing,17,35
-Theoretical Computer Science,18,35
-Statistical Machine Learning,24,34
-Human Computer Interaction,23,34
-Web Development,9,34
-Network Architecture,7,34
-System Security,10,34
-General Accounting,5,34
-Market Research,4,34
-Business Development,21,33
-Correlation And Dependence,24,33
-R Programming,14,32
-Basic Descriptive Statistics,24,32
-Media Strategy & Planning,16,32
-IBM Cloud,11,32
-Cloud-Based Integration,11,32
-Regulations and Compliance,4,32
-Business Intelligence,20,31
-Software Engineering Tools,14,31
-Cryptography,24,31
-Brand Management,17,31
-Computer Networking,7,31
-Statistical Visualization,22,31
-Visual Design,6,30
-Tensorflow,24,30
-Software Architecture,7,30
-Leadership Development,21,30
-Social Media,16,30
-Operating Systems,14,30
-Security Engineering,10,30
-Professional Development,21,29
-Network Model,7,29
-Natural Language Processing,24,29
-Kubernetes,11,28
-Computer Architecture,7,27
-Supply Chain and Logistics,13,27
-Data Mining,24,27
-Product Strategy,4,27
-Database Design,20,26
-Account Management,5,26
-Agile Software Development,21,26
-Cloud Management,11,26
-Emotional Intelligence,18,25
-Accounts Payable and Receivable,5,25
-Database Application,20,25
-Interactive Design,6,25
-Interactive Data Visualization,22,25
-People Development,21,25
-Customer Relationship Management,3,25
-Data Visualization Software,22,25
-Marketing Management,17,24
-Web Development Tools,9,24
-Other Cloud Platforms and Tools,11,24
-Javascript,0,24
-Computer Vision,24,24
-Product Design,6,24
-Cost Accounting,5,23
-Product Development,21,23
-Software Testing,14,23
-Culture,16,23
-Software Security,10,22
-Conflict Management,13,22
-Scrum (Software Development),21,22
-Computer Graphics,6,22
-Systems Design,6,21
-Data Warehousing,20,21
-Database Theory,20,21
-User Research,23,21
-Generally Accepted Accounting Principles (GAAP),5,21
-Web Design,6,21
-Data Architecture,20,21
-Storytelling,16,21
-Negotiation,19,21
-Adaptability,6,20
-Google App Engine,11,20
-Operational Analysis,4,20
-Computer Security Incident Management,10,19
-Mergers & Acquisitions,4,19
-Database Administration,20,19
-Influencing,2,19
-Behavioral Economics,4,19
-Cloud Engineering,11,19
-Estimation,24,19
-Security Strategy,10,19
-Forecasting,2,19
-Employee Relations,19,18
-Management Accounting,5,18
-Advertising,17,18
-Cyberattacks,0,18
-System Software,14,18
-Algebra,12,18
-Experiment,2,18
-Linear Algebra,12,18
-Continuous Delivery,2,18
-Feature Engineering,24,17
-Training,19,17
-Security Software,10,17
-Business Design,6,17
-NoSQL,1,17
-Front-End Web Development,9,17
-Budget Management,13,16
-Continuous Integration,2,16
-Calculus,12,16
-Marketing Design,17,16
-Tableau Software,14,16
-Graph Theory,24,16
-Apache,0,15
-E-Commerce,17,15
-Payments,5,15
-Cash Management,5,15
-Cloud API,11,15
-Software-Defined Networking,7,15
-BlockChain,0,14
-Banking,5,14
-HTML and CSS,6,14
-Customer Success,3,14
-Distributed Computing Architecture,7,14
-Search Engine Optimization,24,14
-Human Resources Operations,19,14
-Networking Hardware,7,13
-React (web framework),9,13
-Graphic Design,6,13
-Taxes,0,13
-Computer Graphic Techniques,6,12
-Computer Security Models,10,12
-Recruitment,19,12
-Reinforcement Learning,8,12
-Securities Trading,4,11
-FinTech,0,11
-Java Programming,12,11
-Customer Support,3,11
-Product Marketing,17,11
-Software As A Service,0,11
-Audit,5,11
-Benefits,19,10
-Talent Management,19,10
-Game Theory,2,10
-Entrepreneurial Finance,4,10
-Power BI,0,10
-Computer Science,18,9
-Resilience,2,9
-Mobile Security,10,9
-Contract Management,13,9
-Amazon Web Services,0,9
-Mobile Development,21,9
-C Programming Language Family,12,9
-Persona Research,23,9
-Differential Equations,12,9
-Product Lifecycle,4,9
-Applied Mathematics,18,8
-Network Analysis,24,8
-PostgreSQL,1,8
-Docker (Software),14,8
-Supply Chain Systems,13,8
-Cloud Standards,11,8
-Microsoft Azure,11,8
-C++ Programming,12,7
-Mobile Development Tools,9,7
-Public Relations,16,7
-System Programming,12,7
-Inventory Management,13,7
-Microarchitecture,7,7
-Internet Of Things,0,6
-Warehouse Management,13,6
-Information Technology,18,6
-Corporate Accouting,5,6
-Biostatistics,24,6
-Supplier Relationship Management,13,6
-Dimensionality Reduction,24,6
-Geometry,6,6
-B2B Sales,15,6
-Business Research,4,6
-Matlab,14,5
-Hardware Design,7,5
-Health,2,5
-Django (Web Framework),9,5
-Compensation,19,5
-Devops Tools,9,5
-Clinical Data Management,20,5
-Retail Sales,15,5
-Econometrics,4,5
-Material Handling,13,5
-Sales Systems,15,5
-Bioinformatics,24,5
-Other Programming Languages,12,5
-Geovisualization,6,4
-Spatial Analysis,24,4
-Back-End Web Development,9,4
-Accounting Software,5,4
-Salesforce,0,4
-Data Engineering,20,4
-Procurement,19,4
-Technical Product Management,13,4
-Journalism,16,4
-Securities Sales,15,4
-Human Factors (Security),19,4
-Transportation Operations Management,13,4
-SAS (Software),14,4
-Billing & Invoicing,5,4
-iOS Development,21,3
-Graphics Software,14,3
-Full-Stack Web Development,9,3
-Bayesian Statistics,24,3
-Epidemiology,2,3
-Scientific Visualization,22,3
-Prospecting and Qualification,19,3
-Android Development,21,3
-Small Data,1,3
-Business,4,3
-Spatial Data Analysis,22,3
-ArcGIS,24,3
-Cloud Clients,11,3
-Cloud Load Balancing,11,3
-GIS Software,14,3
-Marketing Psychology,17,3
-Shipping and Receiving,15,3
-Advertising Sales,15,3
-Combinatorics,24,2
-Swift Programming,12,2
-Other Web Frameworks,9,2
-Survey Creation,3,2
-Software Visualization,22,2
-Markov Model,24,2
-Bayesian Network,24,2
-Media Production,16,2
-Retail Store Operations,15,2
-HR Tech,19,2
-Semantic Web,20,2
-Operations Research,13,2
-Knitr,0,2
-Scala Programming,12,2
-Merchandising,16,1
-Looker (Software),14,1
-Jira (Software),14,1
-Insurance Sales,15,1
-Virtual Reality,6,1
-Geostatistics,24,1
-Angular,0,1
-Cross Platform Development,9,1
-Inside Sales,15,1
+['internet of things',70,1981
+['internet of things'],70,1356
+'internet of things',70,913
+'microsoft excel'],41,866
+'financial accounting',94,724
+['database application',15,616
+'google app engine',62,594
+'strategy',101,556
+['machine learning',16,529
+'applied machine learning',91,515
+'machine learning software',91,501
+'statistical machine learning',95,489
+'financial analysis'],94,486
+'microsoft azure',48,431
+'market analysis'],59,430
+['system programming',2,427
+'machine learning algorithms',91,422
+['financial management',40,414
+'python programming',122,394
+'product strategy',120,389
+['microsoft azure',48,387
+'security strategy',26,378
+'database administration',124,353
+'securities trading',80,346
+['user experience design',3,340
+['python programming'],122,339
+'c programming language family'],140,337
+'media strategy & planning'],126,336
+['java programming',2,334
+['python programming',122,321
+'natural language processing',16,319
+'database theory'],15,317
+['google app engine',62,316
+'system security',26,316
+'computer science',6,306
+['securities trading'],80,305
+'python programming'],122,304
+'user experience',3,303
+'data science',6,300
+['securities trading',80,294
+'financial management',94,290
+'sql',15,287
+'leadership and management'],31,285
+['strategy and operations',0,280
+'database design',15,275
+'google cloud platform'],4,274
+'cloud api'],4,266
+'google cloud platform',4,260
+'market research',59,256
+'application development'],57,256
+'application development',57,254
+'strategy and operations',0,249
+'network architecture',38,244
+'data analysis',23,232
+'system software'],36,232
+'machine learning algorithms'],91,232
+'mobile development',57,230
+'deep learning',16,224
+'theoretical computer science'],6,222
+'system software',36,221
+'financial analysis',94,220
+'finance',29,219
+'mobile security',26,218
+['microsoft excel'],41,214
+'communication',126,210
+'theoretical computer science',6,210
+['ios development',57,204
+['media production',126,204
+['java programming'],2,203
+'critical thinking',76,203
+['javascript'],17,203
+'business intelligence',35,201
+'mobile development tools',57,199
+'android development'],57,197
+['html and css',32,195
+'distributed computing architecture',38,193
+'power bi'],71,193
+'basic descriptive statistics'],85,193
+['emotional intelligence',53,193
+['finance',29,193
+'microsoft excel',41,193
+'entrepreneurial finance'],9,190
+'network security',26,190
+['natural language processing',16,188
+'c# programming'],2,186
+'artificial neural networks',16,181
+'javascript'],17,181
+'website'],128,180
+'media strategy & planning',126,176
+'database application',15,176
+'basic descriptive statistics',85,174
+'computer programming',2,173
+'power bi',71,172
+'computer architecture',38,172
+'user experience design',3,169
+'data architecture',125,167
+'problem solving',86,166
+'decision making',101,165
+['market research',59,161
+'c programming language family',140,159
+'bayesian network',11,157
+'communication'],126,156
+'system security'],26,155
+['aws',1,155
+'continuous integration',134,155
+'human learning',84,154
+'game theory'],86,152
+'sql'],15,151
+'video'],39,151
+'customer analysis',106,151
+'sap'],45,151
+['javascript',17,149
+'amazon web services'],51,148
+['people development',20,146
+'social media',19,145
+'docker'],18,143
+'other programming languages',2,142
+'algorithms',16,141
+['data science',6,140
+'customer support'],106,140
+'technical product management',31,138
+'search engine optimization',16,137
+'game theory',86,137
+'business communication',82,136
+'technical product management'],31,136
+['customer success',119,135
+'people analysis',35,134
+'user experience'],3,134
+'leadership and management',31,134
+'react',71,132
+'cloud computing',4,132
+'cross platform development',57,131
+['software testing',27,130
+['basic descriptive statistics'],85,127
+'risk management',5,125
+'probability & statistics',11,124
+'php programming',68,123
+['react'],71,122
+['sap'],45,120
+'people management',31,120
+['html and css'],32,118
+'securities trading'],80,118
+'amazon web services',51,117
+['game theory'],86,117
+'internet of things'],70,116
+'user research',35,116
+'risk management'],5,116
+'javascript',17,116
+'r programming',2,114
+'interactive design',84,114
+'agile software development'],103,114
+['sql'],15,111
+['network model',38,111
+'databases',15,111
+'react'],71,110
+'other web frameworks',37,109
+'data structures',125,109
+'google app engine'],62,109
+'android development',57,108
+'customer relationship management',8,107
+'human computer interaction',84,106
+'other web frameworks'],37,105
+['writing'],116,105
+'planning',25,105
+'software testing',27,104
+['user experience',3,104
+'human resources operations',139,104
+['cloud api'],4,102
+'digital marketing',107,102
+'entrepreneurial finance',9,102
+'mobile development tools'],57,102
+['website'],92,102
+['business communication',126,101
+'cloud api',4,101
+['other cloud platforms and tools',4,100
+'angular'],71,100
+['wordpress',49,99
+'big data',35,97
+'algorithms'],16,97
+['computer science',6,97
+'marketing',107,96
+'business analysis',82,96
+'writing',116,95
+'customer success',119,94
+['c# programming'],2,93
+'software architecture'],38,92
+'network analysis'],35,92
+['video'],39,91
+'performance management',31,90
+'user research'],35,89
+['php programming'],68,89
+'search engine optimization'],16,88
+'devops',93,88
+['software testing'],27,88
+'data management',56,88
+['network architecture',38,87
+'interactive data visualization',10,87
+'cloud-based integration',22,86
+'collaboration',126,85
+'entrepreneurship',9,85
+'aws',1,84
+'tensorflow',16,84
+['cross platform development',57,83
+'django'],52,83
+'software architecture',38,83
+['google app engine'],62,83
+['google cloud platform',4,82
+['power bi',71,82
+'digital marketing'],107,82
+['amazon web services'],132,82
+'c++ programming'],2,81
+['computational thinking',114,81
+['devops tools',93,81
+['big data',35,80
+'performance management'],31,79
+'linux',73,79
+'regression',35,79
+['leadership development',20,78
+'software-defined networking',38,78
+'load',71,78
+'information technology',115,77
+['devops',93,77
+'interactive data visualization'],10,77
+'mathematics',86,77
+'virtual reality'],42,76
+'social media'],19,76
+'html and css',32,75
+'other cloud platforms and tools',4,75
+['mobile security',26,73
+['mobile development',57,73
+'cloud-based integration'],22,72
+'data visualization',10,72
+['videos'],39,72
+'computer vision'],84,71
+'software testing'],27,71
+'probability distribution',11,71
+'kubernetes',75,70
+['wordpress'],49,70
+'linux'],73,70
+'investment management'],40,70
+['3d',110,69
+['aws'],1,69
+'organizational development',20,69
+'decision making'],101,69
+'network model',38,68
+['linux'],73,68
+'change management'],31,67
+'leadership development',20,67
+['react',71,67
+['digital marketing'],107,66
+'network analysis',35,66
+'exploratory data analysis',23,66
+'general statistics',85,65
+'supply chain systems',142,65
+['customer success'],119,65
+['power bi'],71,65
+'cloud storage',4,64
+['database design',15,64
+'statistical analysis',23,64
+'supply chain and logistics'],142,63
+'website',128,63
+'people management'],31,63
+'business psychology',82,62
+['php programming',68,62
+'operating systems',36,62
+['decision making',101,62
+'videos'],39,62
+'corporate accouting'],88,61
+'business psychology'],82,61
+'continuous delivery',13,61
+'artificial neural networks'],16,61
+'apache',49,60
+['search engine optimization',16,60
+['scrum',79,60
+['3d'],110,60
+'human resources',139,60
+'networking hardware'],38,60
+['human resources',139,60
+'marketing psychology',107,59
+['risk management'],131,59
+'cloud platforms',4,59
+['amazon web services',132,59
+'programming principles',2,58
+['writing',116,58
+'ios development',57,58
+'html and css'],32,58
+'transform',108,58
+['cost accounting',94,57
+['game theory',86,56
+['technical product management'],31,55
+'swift programming',2,55
+'networking hardware',38,55
+['blockchain',43,55
+'statistical programming'],11,55
+'innovation',47,55
+['databases',15,54
+'banking',29,54
+['salesforce'],12,54
+'machine learning',91,53
+['health'],143,53
+'cloud applications',4,53
+'project management',127,52
+['angular'],71,52
+['c++ programming'],2,52
+'swift programming'],2,52
+['interactive design',84,52
+'regulations and compliance',111,52
+'cloud infrastructure',4,52
+'postgresql',15,51
+'computer programming tools',2,51
+'blockchain',43,51
+'videos',39,51
+['cloud clients'],4,51
+['blockchain'],43,51
+'emotional intelligence',53,50
+['basic descriptive statistics',85,50
+'wordpress',49,50
+'supply chain and logistics',142,50
+'agile software development',103,50
+'software engineering',74,50
+'mathematical theory & analysis',86,50
+'django',52,49
+['c programming language family'],140,49
+'statistical tests'],85,49
+'people analysis'],35,49
+['agile software development'],103,49
+'statistical tests',85,48
+['design and product',120,48
+'writing'],116,48
+'information technology'],115,48
+'other cloud platforms and tools'],4,48
+['android development'],57,47
+'devops tools',93,47
+['media production'],126,47
+'data model',125,47
+['information technology'],115,47
+'apache'],49,47
+['public relations',19,46
+['decision making'],101,46
+'cost accounting',94,46
+'computer networking',38,46
+'data mining'],16,46
+'employee relations',61,46
+'computer graphics',24,46
+'sales',7,45
+'data analysis software',23,45
+'brand management',31,45
+'human factors'],81,45
+'distributed computing architecture'],38,44
+'research and design',47,44
+['customer relationship management',8,44
+['financial analysis',94,43
+['cloud api',4,43
+'business transformation',82,43
+['transform',108,43
+'video',39,42
+'operations management',31,42
+'c# programming',2,42
+['deep learning'],16,42
+'business intelligence'],35,42
+['deep learning',16,42
+['investment management'],40,41
+'computational logic',44,41
+['other programming languages',2,41
+'microsoft azure'],48,41
+'data mining',35,41
+['retail store operations',7,41
+['algorithms',16,41
+'applied mathematics',86,40
+['applied machine learning',16,40
+'material handling',65,40
+'advertising',33,39
+'accounts payable and receivable',72,39
+['audit',63,39
+'accounting',94,38
+['public relations'],19,38
+'computer networking'],38,38
+'graphic design'],24,38
+'business process management',31,38
+'hr tech'],145,38
+'forecasting',35,38
+'product management',31,37
+'critical thinking'],76,37
+'regression'],35,37
+['computer graphic techniques',84,37
+'business analysis'],82,37
+['virtual reality'],136,37
+'payments',78,36
+['material handling',65,36
+'correlation and dependence',138,36
+'php programming'],68,36
+['problem solving',86,36
+'cloud infrastructure'],4,36
+['microsoft azure'],48,36
+'public relations',19,35
+'creativity',34,35
+'kubernetes'],75,35
+'probability distribution'],11,35
+'retail store operations',7,35
+'investment management',40,35
+'aws'],1,34
+'wordpress'],49,34
+'hr tech',145,34
+['graphics software',24,34
+'plot (graphics)',55,34
+'extract',50,33
+['technical product management',31,33
+'problem solving'],86,33
+'c++ programming',2,33
+'3d',110,33
+['cloud clients',4,33
+'visualization (computer graphics)',10,33
+'business development',82,32
+'linear algebra',14,32
+'general accounting',94,32
+['continuous delivery',13,32
+'r programming'],2,32
+'spreadsheet software',41,32
+['tableau software',41,32
+'cash management',123,32
+'accounts payable and receivable'],72,32
+'sap',45,31
+'behavioral economics',105,31
+'inventory management',96,31
+'customer success'],119,31
+'nosql',15,31
+'ibm cloud',83,31
+'statistical visualization',10,31
+['process analysis',0,31
+['computer networking',38,30
+['information technology',115,30
+'deep learning'],16,30
+['probability & statistics',11,30
+['investment management',40,30
+['small data'],89,30
+'customer support',106,30
+'virtual reality',42,30
+['linear algebra',14,30
+['natural language processing'],16,30
+'tableau software',41,29
+'visual design',24,29
+['change management'],31,29
+'account management',113,29
+'culture',126,29
+['transform'],108,29
+'conflict management',30,29
+'material handling'],65,29
+'account management'],113,29
+'retail store operations'],7,29
+'scala programming'],98,29
+'cryptography',43,28
+['inside sales'],7,28
+['problem solving'],86,28
+'human resources'],139,28
+'blockchain'],43,28
+['brand management'],31,28
+['apache'],49,27
+['database administration',124,27
+'natural language processing'],16,27
+['spreadsheet software',41,27
+['performance management'],31,27
+'computational thinking',114,27
+'professional development',20,27
+'human factors',81,27
+['performance management',31,27
+'data management'],56,26
+'operational analysis',0,26
+'cloud computing'],4,26
+['postgresql',15,26
+'angular',71,26
+'budget management',147,26
+'cloud management',4,26
+['cost accounting'],94,26
+['docker'],18,26
+['tableau software'],41,25
+'cloud load balancing',4,25
+'web development',17,25
+'devops'],93,25
+['retail store operations'],7,25
+['hr tech'],145,25
+'salesforce'],12,25
+'health'],143,25
+['r programming'],2,25
+['survey creation',149,25
+['big data'],35,25
+'graph theory',66,25
+'devops tools'],93,25
+['behavioral economics',105,25
+'extract'],50,24
+'change management',31,24
+'continuous integration'],134,24
+'reinforcement learning',16,24
+['small data',89,24
+'marketing management',107,24
+'feature engineering',74,24
+['search engine optimization'],16,24
+'data warehousing',56,24
+['computational logic',114,23
+['customer support'],106,23
+['cloud load balancing',4,23
+'software engineering tools',74,23
+'influencing',47,23
+'advertising sales'],33,23
+'matlab',2,23
+'product development',120,23
+'product design',120,23
+'cash management'],123,23
+['artificial neural networks'],16,23
+'estimation',35,23
+['budget management',147,23
+'computer graphics'],24,22
+['ios development'],57,22
+['django'],52,22
+['supply chain systems',142,22
+'financial management'],94,22
+['regulations and compliance',102,22
+'software security',26,22
+'3d'],110,22
+'cloud platforms'],4,22
+'web development tools',17,22
+'fintech',21,21
+['marketing psychology',107,21
+['behavioral economics'],105,21
+['digital marketing',107,21
+'databases'],15,21
+'benefits',28,21
+['sql',15,21
+'data structures'],125,21
+['scrum'],79,21
+'corporate accouting',88,21
+['banking',29,21
+['account management',113,21
+'scrum (software development)',79,21
+'supplier relationship management',8,21
+'survey creation',149,20
+'tensorflow'],16,20
+'inside sales'],7,20
+'survey creation'],149,20
+'cloud clients',4,20
+['website',92,20
+['advertising',33,20
+'generally accepted accounting principles (gaap)',112,20
+['leadership and management',31,20
+['accounts payable and receivable'],72,20
+'scrum',79,20
+'people development',20,20
+'storytelling'],144,20
+['warehouse management',96,20
+'calculus',86,20
+['swift programming'],2,20
+'adaptability',47,20
+'security engineering',26,20
+'docker',18,20
+['software-defined networking',38,20
+['accounting',94,20
+'audit',63,19
+'forecasting'],35,19
+'applied mathematics'],86,19
+['cloud-based integration',129,19
+'web design',148,19
+['kubernetes',75,19
+'management accounting',94,18
+'system programming',2,18
+'inventory management'],96,18
+['kubernetes'],75,18
+'jira',58,18
+'culture'],126,18
+['data visualization software',10,18
+['negotiation',101,18
+['social media'],19,18
+['organizational development',20,18
+'salesforce',12,18
+'cyberattacks',43,18
+'experiment',47,18
+'systems design',137,18
+'jira'],58,17
+'computer security incident management',104,17
+['microsoft excel',41,17
+'mergers & acquisitions',64,17
+'database theory',15,17
+'advertising sales',33,17
+'media production'],126,17
+['human resources operations',139,17
+['data structures',125,17
+['cloud computing',4,17
+'negotiation',101,17
+'regulations and compliance'],111,16
+'ibm cloud'],83,16
+'media production',126,16
+['matlab'],2,16
+['budget management'],147,16
+'shipping and receiving',13,16
+['r programming',2,16
+'security software',26,16
+'talent management',121,16
+'graphic design',24,16
+['regulations and compliance'],102,16
+'computer graphic techniques',24,16
+'recruitment',101,16
+['brand management',31,16
+'gis software',36,16
+['survey creation'],149,16
+['taxes'],78,16
+'hardware design',137,16
+['database administration'],124,16
+'big data'],35,15
+'taxes',78,15
+['creativity',34,15
+['other web frameworks'],37,15
+['material handling'],65,15
+['cloud standards',4,15
+'taxes'],78,15
+['swift programming',2,15
+['statistical tests'],85,15
+['collaboration',126,15
+['general statistics',85,15
+'marketing design',107,15
+['corporate accouting'],88,15
+['cloud standards'],4,15
+['project management',127,15
+'product lifecycle',120,15
+'spatial analysis',35,15
+'retail sales',7,15
+['statistical tests',85,14
+['c# programming',2,14
+['nosql',15,14
+['theoretical computer science',6,14
+'feature engineering'],74,14
+['cloud infrastructure'],4,14
+'contract management'],31,14
+'small data',89,14
+['audit'],63,14
+['data mining'],16,14
+'algebra'],14,14
+['b2b sales'],87,14
+'strategy'],101,14
+'computer programming'],2,14
+['cash management'],123,14
+['critical thinking'],76,14
+'user experience design'],3,14
+['retail sales',7,13
+'front-end web development',17,13
+['payments',78,13
+['entrepreneurial finance',9,13
+'business design',82,13
+['inventory management',96,13
+['talent management',121,13
+'algebra',14,13
+'storytelling',144,13
+['videos',39,13
+['procurement',101,13
+['android development',57,12
+['apache',49,12
+['warehouse management'],96,12
+'cloud clients'],4,12
+['data structures'],125,12
+'market analysis',59,12
+'training',97,12
+['continuous integration',134,12
+['video',39,12
+'warehouse management',96,12
+'mobile security'],26,12
+'differential equations'],86,12
+'sas',133,12
+['scala programming'],146,11
+['cloud storage'],4,11
+'react (web framework)',118,11
+['creativity'],34,11
+'other programming languages'],2,11
+['linux',73,11
+'process analysis',0,11
+'insurance sales',7,11
+['risk management',131,11
+'recruitment'],101,11
+'b2b sales',100,11
+'product marketing',107,11
+['forecasting',35,11
+['negotiation'],101,11
+['software engineering',74,11
+'software as a service',36,11
+'contract management',31,11
+['communication',126,11
+'planning'],25,11
+'small data'],89,11
+['angular',71,10
+['cloud storage',4,10
+['regression',35,10
+['inventory management'],96,10
+'security engineering'],26,10
+['spatial data analysis',35,10
+'graphics software',24,10
+['b2b sales',87,10
+'supplier relationship management'],8,10
+['databases'],15,10
+'business transformation'],82,10
+['storytelling'],144,10
+['innovation'],47,10
+['resilience'],54,10
+['computer vision'],84,10
+'resilience',54,10
+['cloud engineering',117,10
+'cloud standards',4,10
+['c programming language family',140,10
+['account management'],113,10
+'behavioral economics'],105,9
+['banking'],29,9
+'budget management'],147,9
+['jira'],58,9
+'computer vision',84,9
+['postgresql'],15,9
+['research and design',137,9
+'innovation'],47,9
+'computer security models',26,9
+'web development'],17,9
+['human learning',84,9
+'matlab'],2,9
+'persona research',35,9
+['artificial neural networks',16,9
+'gis software'],36,9
+'scientific visualization',109,9
+['machine learning algorithms',16,9
+['regression'],35,9
+'load'],71,9
+'marketing'],107,9
+'insurance sales'],7,9
+['entrepreneurship'],9,9
+['hr tech',145,9
+'scrum'],79,9
+'cloud engineering',117,9
+['conflict management'],90,8
+['reinforcement learning',16,8
+'database administration'],124,8
+['salesforce',12,8
+'cloud standards'],4,8
+['agile software development',103,8
+'java programming',2,8
+['computational logic'],114,8
+'banking'],29,8
+['communication'],126,8
+['financial accounting',94,8
+'dimensionality reduction',99,8
+'cryptography'],43,8
+['other programming languages'],2,8
+['collaboration'],126,8
+['benefits',28,8
+['data analysis',23,8
+['securities sales',80,8
+['mathematics',86,8
+['insurance sales'],7,7
+['fintech',21,7
+'fintech'],21,7
+['culture',126,7
+'ios development'],57,7
+['social media',19,7
+['jira',58,7
+['mathematical theory & analysis',86,7
+['network security',26,7
+'entrepreneurship'],9,7
+['mergers & acquisitions'],64,7
+'transform'],108,7
+['hardware design',137,7
+['virtual reality',136,7
+'health',143,7
+'tableau software'],41,7
+['supply chain and logistics',142,7
+'java programming'],2,7
+['storytelling',144,7
+'data visualization software',10,7
+'microarchitecture',38,7
+'geometry',86,7
+'transportation operations management',31,7
+['employee relations',61,7
+'compensation',46,7
+'docker (software)',141,7
+'billing & invoicing',69,7
+['graph theory',66,7
+'securities sales'],80,6
+'collaboration'],126,6
+['feature engineering',74,6
+['employee relations'],61,6
+['feature engineering'],74,6
+['talent management'],121,6
+['data model',125,6
+'public relations'],19,6
+'e-commerce',107,6
+['innovation',47,6
+'computer programming tools'],2,6
+['e-commerce',107,6
+'brand management'],31,6
+['continuous delivery'],13,6
+'cross platform development'],57,6
+'employee relations'],61,6
+['procurement'],101,6
+'clinical data management',77,6
+'biostatistics',35,6
+['business transformation'],82,6
+'semantic web',17,6
+'spatial data analysis',35,6
+'design and product',120,6
+'business research',82,6
+['strategy',101,6
+['critical thinking',76,6
+['business transformation',82,6
+'software engineering tools'],74,6
+'benefits'],28,6
+['contract management'],31,5
+['change management',31,5
+['shipping and receiving',13,5
+'bayesian statistics',11,5
+['emotional intelligence'],53,5
+['sas'],133,5
+['looker',71,5
+['leadership and management'],31,5
+['docker',18,5
+'data visualization'],10,5
+['arcgis',35,5
+'security strategy'],26,5
+['nosql'],15,5
+'graphics software'],24,5
+'journalism',19,5
+'arcgis',35,5
+['sas',133,5
+['product lifecycle'],120,5
+'statistical analysis'],23,5
+['distributed computing architecture',38,5
+'statistical programming',11,5
+['prospecting and qualification'],101,5
+['strategy'],101,5
+['distributed computing architecture'],38,5
+'creativity'],34,5
+'procurement',101,5
+'django (web framework)',52,5
+['looker'],71,5
+['benefits'],28,5
+['prospecting and qualification',101,5
+'econometrics',59,5
+'shipping and receiving'],13,5
+['bioinformatics'],35,4
+'combinatorics',86,4
+['sales systems',135,4
+['marketing',107,4
+'continuous delivery'],13,4
+'scientific visualization'],109,4
+['estimation',35,4
+'retail sales'],7,4
+'data warehousing'],56,4
+'prospecting and qualification',101,4
+'b2b sales'],87,4
+'scala programming',98,4
+['business intelligence',35,4
+['c++ programming',2,4
+'inside sales',7,4
+['data warehousing',56,4
+['scientific visualization',109,4
+['operating systems',36,4
+['transportation operations management',31,4
+'human computer interaction'],84,4
+['probability distribution',11,4
+'graph theory'],66,4
+'human factors (security)',81,4
+['business design',82,4
+'postgresql'],15,4
+['ibm cloud'],83,4
+['entrepreneurship',9,4
+['human computer interaction'],84,4
+'operational analysis'],0,4
+'econometrics'],59,4
+['cryptography'],43,4
+['operational analysis',0,4
+'front-end web development'],17,4
+'geovisualization',109,4
+['data engineering',6,4
+'computational logic'],67,4
+'billing & invoicing'],69,4
+'exploratory data analysis'],23,4
+'accounting software',94,4
+'hardware design'],137,4
+'merchandising',19,4
+['recruitment',101,4
+['culture'],126,4
+'sas (software)',133,4
+'mergers & acquisitions'],64,4
+['spreadsheet software'],41,4
+['fintech'],21,4
+'back-end web development',17,4
+['linear algebra'],14,3
+['probability distribution'],11,3
+['cross platform development'],57,3
+'marketing psychology'],107,3
+['plot'],55,3
+'payments'],78,3
+'securities sales',80,3
+['human factors',81,3
+['cash management',123,3
+['cryptography',43,3
+['compensation'],46,3
+['arcgis'],35,3
+['cloud infrastructure',4,3
+['operating systems'],36,3
+['estimation'],35,3
+['human computer interaction',84,3
+'bioinformatics'],35,3
+'compensation'],46,3
+'negotiation'],101,3
+['tensorflow'],16,3
+['calculus'],86,3
+['semantic web'],17,3
+'business',82,3
+['journalism'],19,3
+'dimensionality reduction'],99,3
+['corporate accouting',88,3
+'generally accepted accounting principles'],112,3
+['health',143,3
+['training'],97,3
+['programming principles',2,3
+'knitr',71,3
+'semantic web'],17,3
+['computer security models',26,3
+['recruitment'],101,3
+['system software',36,3
+'visualization (computer graphics)'],10,3
+'procurement'],101,3
+['planning',25,3
+['epidemiology',143,3
+'spatial analysis'],35,3
+'e-commerce'],107,3
+'bioinformatics',35,3
+['geometry'],86,3
+'computer security incident management'],130,3
+'cloud storage'],4,3
+'markov model',11,3
+['product management',31,3
+'warehouse management'],96,3
+['shipping and receiving'],13,3
+'full-stack web development',17,3
+['customer support',106,3
+['forecasting'],35,3
+['operations management'],31,2
+['data visualization',10,2
+'web design'],148,2
+'systems design'],137,2
+'training'],97,2
+'business communication'],82,2
+['insurance sales',7,2
+['tensorflow',16,2
+'data model'],125,2
+['scientific visualization'],109,2
+'operations management'],31,2
+'plot'],55,2
+'resilience'],54,2
+'merchandising'],19,2
+['operational analysis'],0,2
+['clinical data management'],77,2
+['resilience',54,2
+'clinical data management'],77,2
+['organizational development'],20,2
+['computer programming',2,2
+['human factors'],81,2
+['experiment'],47,2
+['entrepreneurial finance'],9,2
+'estimation'],35,2
+['taxes',78,2
+['econometrics'],59,2
+'people development'],20,2
+'operating systems'],36,2
+['software engineering tools',74,2
+['mathematical theory & analysis'],86,2
+['interactive data visualization',10,2
+'accounting'],94,2
+['devops'],93,2
+['matlab',2,2
+['software architecture',38,2
+['algorithms'],16,2
+'conflict management'],30,2
+['professional development',20,2
+['react (web framework)',118,2
+['cloud platforms',4,2
+['bayesian statistics',11,2
+'talent management'],121,2
+['conflict management',90,2
+'bayesian statistics'],11,2
+['accounts payable and receivable',72,2
+['data analysis'],23,2
+['dimensionality reduction'],99,2
+['exploratory data analysis',23,2
+['computer security incident management'],60,2
+'product lifecycle'],120,2
+['gis software',36,2
+['product strategy',120,2
+['data warehousing'],56,2
+['plot',55,2
+'looker',71,2
+['computer programming tools',2,2
+['machine learning'],16,2
+['networking hardware',38,2
+['business intelligence'],35,2
+['advertising'],33,2
+['supply chain and logistics'],142,2
+['finance'],29,1
+['merchandising',19,1
+['business psychology',82,1
+['market analysis',59,1
+'looker'],71,1
+'spatial data analysis'],35,1
+'influencing'],47,1
+'geometry'],86,1
+['compensation',46,1
+['bayesian network',11,1
+['differential equations'],86,1
+['theoretical computer science'],6,1
+['product lifecycle',120,1
+['other web frameworks',37,1
+['clinical data management',77,1
+['cloud computing'],4,1
+'spreadsheet software'],41,1
+['reinforcement learning'],16,1
+'arcgis'],35,1
+'generally accepted accounting principles',112,1
+'cyberattacks'],43,1
+['generally accepted accounting principles',112,1
+['graph theory'],66,1
+['general accounting',94,1
+['visual design',84,1
+['product design',120,1
+['security software',26,1
+['plot (graphics)',55,1
+'jira (software)',58,1
+'software engineering'],74,1
+'markov model'],11,1
+'calculus'],86,1
+'plot',55,1
+'scrum (software development)'],79,1
+'marketing design'],107,1
+['user experience'],3,1
+['looker (software)',41,1
+'linear algebra'],14,1
+'software visualization',10,1
+['software visualization',10,1
+['human learning'],84,1
+['extract'],50,1
+['generally accepted accounting principles (gaap)',112,1
+'sales systems',135,1
+['exploratory data analysis'],23,1
+'plot (graphics)'],55,1
+['systems design',137,1
+'web development tools'],17,1
+['computer architecture',38,1
+['web development tools',17,1
+'operations research',0,1
+'biostatistics'],35,1
+['project management'],127,1
+'general statistics'],85,1
+'customer analysis'],106,1
+'geostatistics',35,1
+['billing & invoicing',69,1
+['data architecture',125,1
+['algebra',14,1
+['system security',26,1
+['operations management',31,1
+'general accounting'],94,1
+'transportation operations management'],31,1
+['ibm cloud',83,1
+['django',52,1
+'business development'],82,1
+['operations research',0,1
+['computer security incident management',60,1
+['data management',56,1
+['docker (software)',141,1
+'computer architecture'],38,1
+['planning'],25,1
+'advertising'],33,1
+['cloud load balancing'],4,1
+'correlation and dependence'],138,1
+'data science'],6,1
+['contract management',31,1
+['generally accepted accounting principles'],112,1
+['billing & invoicing'],69,1
+'audit'],63,1
+['transportation operations management'],31,1
+'journalism'],19,1
+'sas'],133,1
+['journalism',19,1
+['supplier relationship management',8,1
+['sap',45,1
+['mergers & acquisitions',64,1
+['payments'],78,1
+'prospecting and qualification'],101,1
