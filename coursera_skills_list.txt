@@ -1,0 +1,428 @@
+Leadership and Management
+Data Analysis
+Communication
+Strategy
+Computer Programming
+Critical Thinking
+Problem Solving
+Strategy and Operations
+Python Programming
+Business Analysis
+Machine Learning
+Planning
+Algorithms
+Decision Making
+Data Management
+Marketing
+Finance
+Cloud Computing
+Probability & Statistics
+Human Learning
+Machine Learning Algorithms
+Entrepreneurship
+General Statistics
+Databases
+Data Visualization
+SQL
+Collaboration
+Organizational Development
+Risk Management
+Exploratory Data Analysis
+Financial Analysis
+Statistical Analysis
+Applied Machine Learning
+Project Management
+Mathematics
+Regression
+Data Structures
+Software Engineering
+Deep Learning
+Programming Principles
+Statistical Programming
+Accounting
+Market Analysis
+Computer Programming Tools
+Writing
+Data Model
+User Experience
+Big Data
+Artificial Neural Networks
+Design and Product
+Financial Accounting
+Cloud Applications
+Research and Design
+Computational Thinking
+Innovation
+Cloud Platforms
+Microsoft Excel
+Mathematical Theory & Analysis
+Network Security
+Operations Management
+Financial Management
+Machine Learning Software
+Business Communication
+Data Analysis Software
+Sales
+Business Psychology
+Transform
+Load
+Extract
+Customer Analysis
+Process Analysis
+Computational Logic
+Human Resources
+Cloud Storage
+Cloud Infrastructure
+Product Management
+Spreadsheet Software
+People Analysis
+People Management
+Data Science
+Creativity
+Performance Management
+Investment Management
+Application Development
+Business Process Management
+Statistical Tests
+Linux
+Google Cloud Platform
+Change Management
+User Experience Design
+Probability Distribution
+Visualization (Computer Graphics)
+DevOps
+Plot (Graphics)
+Business Transformation
+Theoretical Computer Science
+Digital Marketing
+Market Research
+Web Development
+Statistical Machine Learning
+Network Architecture
+System Security
+Human Computer Interaction
+General Accounting
+Business Development
+Correlation And Dependence
+Cloud-Based Integration
+Regulations and Compliance
+Media Strategy & Planning
+Basic Descriptive Statistics
+R Programming
+IBM Cloud
+Cryptography
+Brand Management
+Computer Networking
+Business Intelligence
+Statistical Visualization
+Software Engineering Tools
+Security Engineering
+Operating Systems
+Tensorflow
+Social Media
+Visual Design
+Software Architecture
+Leadership Development
+Professional Development
+Network Model
+Natural Language Processing
+Kubernetes
+Computer Architecture
+Product Strategy
+Supply Chain and Logistics
+Data Mining
+Cloud Management
+Agile Software Development
+Database Design
+Account Management
+People Development
+Accounts Payable and Receivable
+Customer Relationship Management
+Interactive Design
+Database Application
+Emotional Intelligence
+Data Visualization Software
+Interactive Data Visualization
+Marketing Management
+Other Cloud Platforms and Tools
+Computer Vision
+Javascript
+Product Design
+Web Development Tools
+Culture
+Product Development
+Software Testing
+Cost Accounting
+Conflict Management
+Software Security
+Computer Graphics
+Scrum (Software Development)
+Data Warehousing
+Web Design
+Storytelling
+Negotiation
+Generally Accepted Accounting Principles (GAAP)
+Data Architecture
+Systems Design
+User Research
+Database Theory
+Adaptability
+Google App Engine
+Operational Analysis
+Influencing
+Cloud Engineering
+Forecasting
+Behavioral Economics
+Estimation
+Database Administration
+Security Strategy
+Mergers & Acquisitions
+Computer Security Incident Management
+Linear Algebra
+System Software
+Cyberattacks
+Advertising
+Employee Relations
+Management Accounting
+Continuous Delivery
+Algebra
+Experiment
+NoSQL
+Feature Engineering
+Training
+Business Design
+Security Software
+Front-End Web Development
+Continuous Integration
+Marketing Design
+Calculus
+Budget Management
+Tableau Software
+Graph Theory
+Apache
+Cloud API
+Software-Defined Networking
+Payments
+E-Commerce
+Cash Management
+Search Engine Optimization
+Banking
+HTML and CSS
+Human Resources Operations
+Customer Success
+Distributed Computing Architecture
+BlockChain
+Taxes
+Networking Hardware
+React (web framework)
+Graphic Design
+Computer Security Models
+Recruitment
+Reinforcement Learning
+Computer Graphic Techniques
+Java Programming
+FinTech
+Software As A Service
+Audit
+Product Marketing
+Customer Support
+Securities Trading
+Talent Management
+Benefits
+Entrepreneurial Finance
+Power BI
+Game Theory
+Amazon Web Services
+Persona Research
+Product Lifecycle
+Differential Equations
+Mobile Security
+Resilience
+Computer Science
+C Programming Language Family
+Contract Management
+Mobile Development
+Supply Chain Systems
+Cloud Standards
+Microsoft Azure
+PostgreSQL
+Applied Mathematics
+Docker (Software)
+Network Analysis
+Inventory Management
+Public Relations
+Microarchitecture
+C++ Programming
+System Programming
+Mobile Development Tools
+Corporate Accouting
+Biostatistics
+B2B Sales
+Dimensionality Reduction
+Supplier Relationship Management
+Business Research
+Geometry
+Information Technology
+Warehouse Management
+Internet Of Things
+Other Programming Languages
+Material Handling
+Sales Systems
+Django (Web Framework)
+Compensation
+Matlab
+Clinical Data Management
+Retail Sales
+Econometrics
+Health
+Hardware Design
+Bioinformatics
+Devops Tools
+Procurement
+Spatial Analysis
+Technical Product Management
+(1.7k reviews)
+Securities Sales
+Geovisualization
+Journalism
+Transportation Operations Management
+Human Factors (Security)
+Salesforce
+Back-End Web Development
+Accounting Software
+SAS (Software)
+Billing & Invoicing
+Data Engineering
+Business
+Full-Stack Web Development
+iOS Development
+Small Data
+Android Development
+(1.5k reviews)
+Bayesian Statistics
+Prospecting and Qualification
+Graphics Software
+Spatial Data Analysis
+ArcGIS
+GIS Software
+Cloud Clients
+Scientific Visualization
+Epidemiology
+Advertising Sales
+Marketing Psychology
+Shipping and Receiving
+Cloud Load Balancing
+Other Web Frameworks
+(9.9k reviews)
+Survey Creation
+(4.7k reviews)
+(9k reviews)
+(5.7k reviews)
+(2.3k reviews)
+(4.8k reviews)
+(2.1k reviews)
+Swift Programming
+Media Production
+HR Tech
+(3.5k reviews)
+Operations Research
+Semantic Web
+Combinatorics
+Software Visualization
+Knitr
+(32 reviews)
+Bayesian Network
+Markov Model
+(50 reviews)
+(4.9k reviews)
+Retail Store Operations
+(3.1k reviews)
+Scala Programming
+(2.2k reviews)
+(496 reviews)
+(919 reviews)
+(36.9k reviews)
+Cross Platform Development
+(40 reviews)
+(159 reviews)
+(123 reviews)
+(2.5k reviews)
+(71 reviews)
+Beginner · Course · 1 - 3 Months
+Mixed · Course · 1 - 3 Months
+(14 reviews)
+(1.9k reviews)
+(501 reviews)
+(83 reviews)
+(1.4k reviews)
+(11 reviews)
+(211 reviews)
+Inside Sales
+(1.3k reviews)
+(2.4k reviews)
+(227 reviews)
+(86 reviews)
+Merchandising
+(1.6k reviews)
+(37 reviews)
+Looker (Software)
+(36 reviews)
+(4k reviews)
+(43 reviews)
+(41 reviews)
+(780 reviews)
+(2.7k reviews)
+(30.2k reviews)
+(638 reviews)
+(3.2k reviews)
+Jira (Software)
+Insurance Sales
+(18.4k reviews)
+(361 reviews)
+(2.8k reviews)
+(714 reviews)
+(33 reviews)
+(10 reviews)
+(441 reviews)
+Virtual Reality
+(168 reviews)
+(4.5k reviews)
+(461 reviews)
+(433 reviews)
+(70 reviews)
+(4.2k reviews)
+(503 reviews)
+(7.1k reviews)
+(367 reviews)
+(612 reviews)
+(79 reviews)
+Geostatistics
+(21 reviews)
+Intermediate · Specialization · 3 - 6 Months
+(1.1k reviews)
+(46 reviews)
+(602 reviews)
+Angular
+(866 reviews)
+(59 reviews)
+(95 reviews)
+(30 reviews)
+(171 reviews)
+(343 reviews)
+(641 reviews)
+(285 reviews)
+(164 reviews)
+Beginner · Specialization · 3 - 6 Months
+(350 reviews)
+(3.3k reviews)
+(696 reviews)
+(208 reviews)
+(2k reviews)
+(35 reviews)
+(82 reviews)
+(174 reviews)
+(8 reviews)
+(23 reviews)
+(5.8k reviews)
+(17 reviews)
+(610 reviews)
