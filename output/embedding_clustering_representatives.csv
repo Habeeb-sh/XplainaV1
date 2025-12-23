@@ -1,0 +1,151 @@
+cluster,representative,rep_freq,closest_skill,cluster_size
+0,['strategy and operations',280,['operational analysis',10
+1,['aws',155,['aws'],4
+2,['system programming',427,['c++ programming'],38
+3,['user experience design',340,['user experience'],7
+4,'google cloud platform'],274,['cloud platforms',38
+5,'risk management',125,'risk management'],2
+6,'computer science',306,['theoretical computer science'],10
+7,'sales',45,'retail sales'],15
+8,'customer relationship management',107,['supplier relationship management',5
+9,'entrepreneurial finance'],190,['entrepreneurship'],8
+10,'interactive data visualization',87,'data visualization'],13
+11,'bayesian network',157,['probability distribution'],15
+12,['salesforce'],54,['salesforce'],4
+13,'continuous delivery',61,['continuous delivery',8
+14,'linear algebra',32,['linear algebra'],7
+15,['database application',616,'databases'],21
+16,['machine learning',529,['machine learning algorithms',33
+17,['javascript'],203,'web development'],16
+18,'docker'],143,['docker'],4
+19,'social media',145,['public relations',15
+20,['people development',146,['organizational development'],10
+21,'fintech',21,'fintech'],4
+22,'cloud-based integration',86,'cloud-based integration'],2
+23,'data analysis',232,['exploratory data analysis'],10
+24,'computer graphics',46,'computer graphics'],9
+25,'planning',105,['planning'],4
+26,'security strategy',378,'system security'],17
+27,['software testing',130,['software testing'],4
+28,'benefits',21,['benefits'],4
+29,'finance',219,['banking'],7
+30,'conflict management',29,'conflict management'],2
+31,'leadership and management'],285,['product management',37
+32,['html and css',195,'html and css'],4
+33,'advertising',39,'advertising'],6
+34,'creativity',35,'creativity'],4
+35,'business intelligence',201,'spatial analysis'],43
+36,'system software'],232,['system software',11
+37,'other web frameworks',109,'other web frameworks'],4
+38,'network architecture',244,['network architecture',23
+39,'video'],151,['video'],8
+40,['financial management',414,['investment management'],5
+41,'microsoft excel'],866,['spreadsheet software'],13
+42,'virtual reality'],76,'virtual reality'],2
+43,['blockchain',55,['blockchain'],10
+44,'computational logic',41,'computational logic',1
+45,'sap'],151,['sap'],4
+46,'compensation',7,'compensation'],4
+47,'innovation',55,['innovation'],10
+48,'microsoft azure',431,'microsoft azure'],4
+49,['wordpress',99,['wordpress'],8
+50,'extract',33,'extract'],3
+51,'amazon web services'],148,'amazon web services'],2
+52,'django'],83,'django'],5
+53,['emotional intelligence',193,['emotional intelligence'],3
+54,['resilience'],10,'resilience'],4
+55,'plot (graphics)',34,['plot (graphics)',7
+56,'data management',88,'data management'],7
+57,'application development'],256,['android development'],18
+58,'jira',18,'jira'],5
+59,'market analysis'],430,['market analysis',8
+60,['computer security incident management'],2,['computer security incident management'],2
+61,'employee relations',46,'employee relations'],4
+62,'google app engine',594,'google app engine'],4
+63,['audit',39,['audit'],4
+64,'mergers & acquisitions',17,'mergers & acquisitions'],4
+65,'material handling',40,'material handling'],4
+66,'graph theory',25,'graph theory'],4
+67,'computational logic'],4,'computational logic'],1
+68,'php programming',123,'php programming'],4
+69,'billing & invoicing',7,'billing & invoicing'],4
+70,['internet of things',1981,['internet of things',4
+71,'power bi'],193,['angular',19
+72,'accounts payable and receivable',39,['accounts payable and receivable',4
+73,'linux',79,'linux'],4
+74,'software engineering',50,['feature engineering'],10
+75,'kubernetes',70,['kubernetes'],4
+76,'critical thinking',203,['critical thinking',4
+77,'clinical data management',6,'clinical data management'],4
+78,'payments',36,['payments'],8
+79,['scrum',60,'scrum'],6
+80,'securities trading',346,'securities sales'],7
+81,'human factors'],45,'human factors'],5
+82,'business communication',136,'business development'],17
+83,'ibm cloud',31,'ibm cloud'],4
+84,'human learning',154,['human computer interaction'],14
+85,'basic descriptive statistics'],193,['general statistics',11
+86,'problem solving',166,['mathematics',24
+87,['b2b sales'],14,['b2b sales',3
+88,'corporate accouting'],61,['corporate accouting',4
+89,['small data'],30,['small data',4
+90,['conflict management'],8,['conflict management'],2
+91,'applied machine learning',515,'machine learning algorithms',5
+92,['website'],102,['website',2
+93,'devops',88,'devops',7
+94,'financial accounting',724,['financial accounting',18
+95,'statistical machine learning',489,'statistical machine learning',1
+96,'inventory management',31,['inventory management'],8
+97,'training',12,'training'],3
+98,'scala programming'],29,'scala programming',2
+99,'dimensionality reduction',8,'dimensionality reduction'],3
+100,'b2b sales',11,'b2b sales',1
+101,'strategy',556,['procurement',24
+102,['regulations and compliance',22,['regulations and compliance',2
+103,'agile software development'],114,['agile software development'],4
+104,'computer security incident management',17,'computer security incident management',1
+105,'behavioral economics',31,'behavioral economics'],4
+106,'customer analysis',151,'customer support'],6
+107,'digital marketing',102,'marketing'],17
+108,'transform',58,['transform'],4
+109,'scientific visualization',9,'scientific visualization'],5
+110,['3d',69,'3d'],4
+111,'regulations and compliance',52,'regulations and compliance',2
+112,'generally accepted accounting principles (gaap)',20,'generally accepted accounting principles'],6
+113,'account management',29,'account management'],4
+114,['computational thinking',81,['computational logic',4
+115,'information technology',77,'information technology'],4
+116,['writing'],105,['writing'],4
+117,['cloud engineering',10,['cloud engineering',2
+118,'react (web framework)',11,['react (web framework)',2
+119,['customer success',135,['customer success',4
+120,'product strategy',389,['product design',11
+121,'talent management',16,'talent management'],4
+122,'python programming',394,'python programming'],4
+123,'cash management',32,['cash management'],4
+124,'database administration',353,'database administration'],4
+125,'data architecture',167,['data structures'],9
+126,'media strategy & planning'],336,['media production'],19
+127,'project management',52,['project management'],3
+128,'website'],180,'website'],2
+129,['cloud-based integration',19,['cloud-based integration',1
+130,'computer security incident management'],3,'computer security incident management'],1
+131,['risk management'],59,['risk management',2
+132,['amazon web services'],82,['amazon web services'],2
+133,'sas',12,'sas'],5
+134,'continuous integration',155,'continuous integration'],3
+135,['sales systems',4,['sales systems',2
+136,['virtual reality'],37,['virtual reality'],2
+137,'systems design',18,['systems design',7
+138,'correlation and dependence',36,'correlation and dependence',2
+139,'human resources operations',104,'human resources'],5
+140,'c programming language family'],337,['c programming language family',4
+141,'docker (software)',7,['docker (software)',2
+142,'supply chain systems',65,'supply chain and logistics'],6
+143,['health'],53,['health'],5
+144,'storytelling'],20,'storytelling'],4
+145,'hr tech'],38,'hr tech'],4
+146,['scala programming'],11,['scala programming'],1
+147,'budget management',26,'budget management'],4
+148,'web design',19,'web design',2
+149,['survey creation',25,'survey creation'],4
